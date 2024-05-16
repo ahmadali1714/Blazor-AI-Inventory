@@ -1,2 +1,2 @@
-# Blazor-Server-Vehicle-Inventory-Ai
-A Blazor Server App running Microsoft Entra, CosmosDb, OpenAi Api (Azure), TailwindCss, Webpack &amp; Docker
+# InventoryAiApp
+Vechile Inventory OpenAi Azure API 
