@@ -3,7 +3,7 @@ node_modules/
 
 # Ignore secrets directory
 /secrets/
-
+ 
 # Ignore configuration files that may contain sensitive information
 *.config
 *.env
