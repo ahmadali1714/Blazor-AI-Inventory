@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 
 WORKDIR /app
 
-# Install Node.js
+# Install Node.js 
 RUN apt-get update && \
     apt-get install -y wget && \
     wget -qO- https://deb.nodesource.com/setup_16.x | bash - && \
