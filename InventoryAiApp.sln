@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryAiApp", "InventoryAiApp\InventoryAiApp.csproj", "{7A9EC126-CA0B-40FC-ABE3-8CAD561535B5}"
 EndProject
-Global
+Global 
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
