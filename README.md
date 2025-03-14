@@ -1,13 +1,8 @@
 
 # Blazor Server AI Chatbot Development Series
 
-This repository is part of a series that guides you through building a custom AI chatbot using Blazor Server, Docker, Webpack, and TailwindCSS. Follow along with the YouTube video series to modernize your web application with the latest tools and technologies.
+This repository is part of a series that guides you through building a custom AI chatbot using Blazor Server, Docker, Webpack, and TailwindCSS. 
 
-## Overview
-
-This repository contains the code for the first video in the series. The video covers setting up a Blazor Server application, integrating Docker for containerization, configuring Webpack and TailwindCSS, and setting up a GitHub repository.
-
-**YouTube Playlist:** [Blazor Server AI Chatbot Development Series](https://www.youtube.com/playlist?list=PLcXTWCir0QCsvN-hwfHRjgoyIYULhX0fH)
 
 ## Repository Contents
 
